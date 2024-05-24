@@ -1,7 +1,7 @@
-## MyToken
+# MyToken
 The 'MyToken' contract is simple implementation of a token on the Ethereum blockchain. It can be used for various purposes such as representing assets, creating a currency, or managing digital collectibles.
 
-#### Description
+## Description
 This solidity codes defines a simple Etheruem token contract named 'MyToken' with mint and burn functions to manage the token supply and a mapping to track balances. 
 
 #### Getting Started
